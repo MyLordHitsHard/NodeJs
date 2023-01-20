@@ -1,0 +1,23 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "just learning node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyLordHitsHard/NodeJs.git"
+  },
+  "author": "Himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyLordHitsHard/NodeJs/issues"
+  },
+  "homepage": "https://github.com/MyLordHitsHard/NodeJs#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
+}
