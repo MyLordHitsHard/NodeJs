@@ -1,1 +1,1 @@
-Here is the result: Hello! This is my first text file handling program in js Hi! This one is second fileHere is the result: Hello! This is my first text file handling program in js Hi! This one is second file
+Here is the result: Hello! This is my first text file handling program in js Hi! This one is second fileHere is the result: Hello! This is my first text file handling program in js Hi! This one is second fileHere is the result: Hello! This is my first text file handling program in js Hi! This one is second file

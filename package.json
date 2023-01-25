@@ -2,11 +2,11 @@
   "name": "learn",
   "version": "1.0.0",
   "description": "just learning node",
-  "main": "app.js",
+  "main": "eventloopAsync.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node eventloopAsync.js",
+    "dev": "nodemon eventloopAsync.js"
   },
   "repository": {
     "type": "git",
