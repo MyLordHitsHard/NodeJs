@@ -2,11 +2,11 @@
   "name": "learn",
   "version": "1.0.0",
   "description": "just learning node",
-  "main": "eventloopAsync.js",
+  "main": "streams.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node eventloopAsync.js",
-    "dev": "nodemon eventloopAsync.js"
+    "start": "node streams.js",
+    "dev": "nodemon streams.js"
   },
   "repository": {
     "type": "git",
